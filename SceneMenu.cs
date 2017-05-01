@@ -9,7 +9,7 @@ public class SceneMenu : MonoBehaviour {
 	public GameObject playButton;
 	public Text msg;
 
-	public string gameID = "1082864";
+	public string gameID = "nnnnnn";
 
 	void Start () {
 
