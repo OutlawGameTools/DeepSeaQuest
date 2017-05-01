@@ -7,6 +7,6 @@ iOS version here: https://itunes.apple.com/us/app/deep-sea-quest-rescue-the-lost
 
 Android version here: https://play.google.com/store/apps/details?id=com.ThreeRingRanch.DeepSeaQuest&hl=en
 
-This is not the entore Unity project, just the scripts. Hopefully they can be useful to others who are working on 2D games in Unity.
+This is not the entire Unity project, just the scripts. Hopefully they can be useful to others who are working on 2D games in Unity.
 
 More info on why I created this game can be found here: https://madewith.unity.com/en/games/deep-sea-quest-rescue-the-lost-mermaid
